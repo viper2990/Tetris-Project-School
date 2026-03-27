@@ -18,3 +18,7 @@ This code is for college, but also to have fun since I love Tetris
 DEPENDENCIES (pygame)
 
 To install, use the terminal and insert: py -m pip install pygame-ce
+
+
+<img width="627" height="1086" alt="image" src="https://github.com/user-attachments/assets/70a6878a-a772-4c3e-9b93-169ce17a7572" />
+<img width="630" height="1092" alt="image" src="https://github.com/user-attachments/assets/5f98dea7-007b-447e-a95f-a267dde446f9" />
