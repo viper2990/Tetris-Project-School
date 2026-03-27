@@ -20,5 +20,7 @@ DEPENDENCIES (pygame)
 To install, use the terminal and insert: py -m pip install pygame-ce
 
 
-<img width="627" height="1086" alt="image" src="https://github.com/user-attachments/assets/70a6878a-a772-4c3e-9b93-169ce17a7572" />
-<img width="630" height="1092" alt="image" src="https://github.com/user-attachments/assets/5f98dea7-007b-447e-a95f-a267dde446f9" />
+<img width="314" height="544" alt="Screenshot 2026-03-27 044342" src="https://github.com/user-attachments/assets/c99772f7-af9d-4f04-abee-cec8de13ddcf" />
+
+<img width="315" height="546" alt="Screenshot 2026-03-27 044448" src="https://github.com/user-attachments/assets/0c666687-375a-49a8-8512-b66b6f2baacb" />
+
